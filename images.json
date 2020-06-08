@@ -1,0 +1,6 @@
+{
+	"buildroot/Image":        "0x40000000",
+	"buildroot/rootfs.cpio":  "0x40800000",
+	"buildroot/rv32.dtb":     "0x41000000",
+	"emulator/emulator.bin":  "0x41100000"
+}
