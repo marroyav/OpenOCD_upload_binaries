@@ -22,7 +22,7 @@ $ wget https://raw.githubusercontent.com/enjoy-digital/litex/master/litex_setup.
 $ chmod +x litex_setup.py
 $ sudo ./litex_setup.py init install
 ```
-[Open OCD]
+[Open OCD](http://openocd.org/)
 ```sh
 $ sudo apt install libtool automake pkg-config libusb-1.0-0-dev
 $ git clone https://github.com/ntfreak/openocd.git
